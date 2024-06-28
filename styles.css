@@ -26,9 +26,15 @@ p{
 
 #more-info{
     background-color: bisque;
-    width: 20%;
-    margin: auto;
-    padding: 10px;
+    width: 100%;
+    padding: 7px;
     border-radius: 10px;
     display: none;
+    margin: auto;
+}
+
+@media screen and (min-width:900px) {
+    #more-info{
+        width: 40%;
+    }
 }
