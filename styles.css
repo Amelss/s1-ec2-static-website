@@ -1,0 +1,33 @@
+body{
+    font-family: "Playwrite IT Moderna", cursive;
+}
+
+.description{
+    text-align: center;
+    margin-top: 20px;
+    padding: 40px;
+}
+
+button{
+padding: 10px;
+border: none;
+border-radius: 10px;
+background-color: darksalmon;
+color: white;
+font-size: 18px;
+font-family: "Playwrite IT Moderna", cursive;
+margin-bottom: 30px;
+
+}
+
+p{
+    font-size: 20px;
+}
+
+#more-info{
+    background-color: bisque;
+    width: 20%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
